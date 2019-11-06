@@ -54,7 +54,7 @@
                 <div class="tab-wrap">
                     <div class="tab-item manual-catalog">
                         <div class="catalog-list read-book-preview" id="sidebar">
-                            <ul><li id="1" class="jstree-open"><a href="https://wiki.iminho.me/docs/show/1" title="项目简介" class="jstree-clicked">项目简介</a></li><li id="8"><a href="https://wiki.iminho.me/docs/show/8" title="使用手册">使用手册</a><ul><li id="135"><a href="https://wiki.iminho.me/docs/show/135" title="SmartWiki依赖扩展">SmartWiki依赖扩展</a></li><li id="9"><a href="https://wiki.iminho.me/docs/show/9" title="SmartWiki安装与部署">SmartWiki安装与部署</a></li><li id="10"><a href="https://wiki.iminho.me/docs/show/10" title="密码找回与邮件配置">密码找回与邮件配置</a></li><li id="21"><a href="https://wiki.iminho.me/docs/show/21" title="Artisan命令安装SmartWiki">Artisan命令安装SmartWiki</a></li><li id="22"><a href="https://wiki.iminho.me/docs/show/22" title="在Docker中使用SmartWiki">在Docker中使用SmartWiki</a></li><li id="105"><a href="https://wiki.iminho.me/docs/show/105" title="图片和附件配置">图片和附件配置</a></li><li id="133"><a href="https://wiki.iminho.me/docs/show/133" title="查看SmartWiki版本">查看SmartWiki版本</a></li><li id="134"><a href="https://wiki.iminho.me/docs/show/134" title="使用phpStudy安装SmartWiki">使用phpStudy安装SmartWiki</a></li><li id="138"><a href="https://wiki.iminho.me/docs/show/138" title="接口管理和测试工具">接口管理和测试工具</a></li></ul></li><li id="90"><a href="https://wiki.iminho.me/docs/show/90" title="PHP环境搭建">PHP环境搭建</a><ul><li id="18"><a href="https://wiki.iminho.me/docs/show/18" title="Linux命令行下Nginx+PHP-FPM安装与配置">Linux命令行下Nginx+PHP-FPM安装与配置</a></li><li id="17"><a href="https://wiki.iminho.me/docs/show/17" title="Linux命令行下Apache+PHP安装与配置">Linux命令行下Apache+PHP安装与配置</a></li><li id="91"><a href="https://wiki.iminho.me/docs/show/91" title="Linux下使用XAMPP搭建PHP环境">Linux下使用XAMPP搭建PHP环境</a></li><li id="92"><a href="https://wiki.iminho.me/docs/show/92" title="Windows下使用phpStudy搭建php环境">Windows下使用phpStudy搭建php环境</a></li></ul></li><li id="4"><a href="https://wiki.iminho.me/docs/show/4" title="Composer安装">Composer安装</a></li><li id="5"><a href="https://wiki.iminho.me/docs/show/5" title="更新日志">更新日志</a></li><li id="6"><a href="https://wiki.iminho.me/docs/show/6" title="常见问题">常见问题</a></li></ul>
+                            <ul><li id="1" class="jstree-open"><a href="/docs/show/1" title="项目简介" class="jstree-clicked">项目简介</a></li></ul>
                         </div>
 
                     </div>
@@ -62,7 +62,7 @@
             </div>
             <div class="m-copyright">
                 <p>
-                    本文档使用 <a href="https://www.iminho.me" target="_blank">MinDoc</a> 发布
+                    本文档使用 <a href="/" target="_blank">wiki</a> 发布
                 </p>
             </div>
         </div>
@@ -135,7 +135,7 @@
                             <li>文档搜索</li>
                         </ol>
                         <h2 id="h2-u4f5cu8005"><a name="作者" class="reference-link"></a><span class="header-link octicon octicon-link"></span>作者</h2>
-                        <p>一个纯粹的PHPer。<a href="http://www.iminho.me">个人网站</a></p>
+                        <p>wiki<a href="#">系统</a></p>
 
                     </div>
                 </div>
